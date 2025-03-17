@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.3.12)  17 MAR 2025 12:54
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.3.12)  17 MAR 2025 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 ]
-Overfull \hbox (1.84586pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.84586pt too wide) in paragraph at lines 78--79
 [] \TU/TimesNewRoman(2)/m/n/13 Инженер по автоматизации отвечает за настройку и
  наладку оборудования АСУТП,
  []
@@ -1296,7 +1296,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-Overfull \hbox (5.37726pt too wide) in paragraph at lines 81--82
+Overfull \hbox (5.37726pt too wide) in paragraph at lines 86--87
 [] \TU/TimesNewRoman(2)/m/n/13 Должностные инструкции являются основой для расп
 ределения обязанностей меж-
  []
@@ -1322,19 +1322,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [6]
-Overfull \hbox (10.11377pt too wide) in paragraph at lines 122--123
+Overfull \hbox (10.11377pt too wide) in paragraph at lines 130--131
 [] \TU/TimesNewRoman(2)/m/n/13 - Складское хозяйство. Использование систем WMS 
 (Warehouse Management System)
  []
 
 
-Overfull \hbox (1.3998pt too wide) in paragraph at lines 158--159
+Overfull \hbox (1.3998pt too wide) in paragraph at lines 169--170
 \TU/TimesNewRoman(2)/m/n/13 стемы управления составляют программируемые логичес
 кие контроллеры Phoenix Contact
  []
 
 
-Overfull \hbox (9.58617pt too wide) in paragraph at lines 158--159
+Overfull \hbox (9.58617pt too wide) in paragraph at lines 169--170
 \TU/TimesNewRoman(2)/m/n/13 теры с операционными системами Linux для выполнения
  программы управления ptusa_main
  []
@@ -1360,13 +1360,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [7]
-Overfull \hbox (7.59413pt too wide) in paragraph at lines 160--161
+Overfull \hbox (7.59413pt too wide) in paragraph at lines 171--172
 \TU/TimesNewRoman(2)/m/n/13 пературы, давления, расходомеры для измерения объем
 ов перекачиваемых продуктов, уров-
  []
 
 
-Overfull \hbox (9.3625pt too wide) in paragraph at lines 166--167
+Overfull \hbox (9.3625pt too wide) in paragraph at lines 177--178
 [] \TU/TimesNewRoman(2)/m/n/13 Система управления PTUSA включает основную прогр
 амму управления ptusa_main,
  []
@@ -1392,18 +1392,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [8]
-Overfull \hbox (0.24985pt too wide) in paragraph at lines 184--185
+Overfull \hbox (0.24985pt too wide) in paragraph at lines 195--196
 \TU/TimesNewRoman(2)/m/n/13 рецептурами и партиями продукции, система учета эне
 ргоресурсов для оптимизации энер-
  []
 
 
-Overfull \hbox (9.27512pt too wide) in paragraph at lines 190--191
+Overfull \hbox (9.27512pt too wide) in paragraph at lines 201--202
 \TU/TimesNewRoman(2)/m/n/13 приятию ”Савушкин”обеспечивать высокий уровень авто
 матизации производственных про-
  []
 
-) (Chapter_2.tex
+
 
 
 Overfull \hbox (31.29527pt too wide) has occurred while \output is active
@@ -1424,6 +1424,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9]
+Overfull \hbox (2.10663pt too wide) in paragraph at lines 221--222
+\TU/TimesNewRoman(2)/m/n/13 мых на предприятии. Были рассмотрены программируемы
+е логические контроллеры Phoe-
+ []
+
+
+Overfull \hbox (0.95758pt too wide) in paragraph at lines 225--226
+\TU/TimesNewRoman(2)/m/n/13 SCADA, построенный на клиент-серверной архитектуре 
+с центральным сервером EasySer-
+ []
+
+
 
 
 Overfull \hbox (31.29527pt too wide) has occurred while \output is active
@@ -1444,15 +1456,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [10]
-Overfull \hbox (7.42445pt too wide) in paragraph at lines 39--40
-[] \TU/TimesNewRoman(2)/m/n/13 -Комплексность: Платформы предоставляют широкий 
-набор инструментов для ком-
+File: img/activity.jpg Graphic file (type bmp)
+<img/activity.jpg>
+) (Chapter_2.tex
+
+
+Overfull \hbox (31.29527pt too wide) has occurred while \output is active
+[] 
  []
 
 
-Overfull \hbox (1.52748pt too wide) in paragraph at lines 49--50
-[] \TU/TimesNewRoman(2)/m/n/13 -Лицензионные обязательства: Некоторые платформы
- требуют подписки или опла-
+Overfull \vbox (813.74454pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (498.41129pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+[11]
+Overfull \hbox (3.91632pt too wide) in paragraph at lines 49--50
+[] \TU/TimesNewRoman(2)/m/n/13 • Лицензионные обязательства: Некоторые платформ
+ы требуют подписки или опла-
  []
 
 
@@ -1475,45 +1504,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
 
-[11
+[12
 
 
 ]
-Overfull \hbox (4.45906pt too wide) in paragraph at lines 57--58
-[] \TU/TimesNewRoman(2)/m/n/13 -Полная кастомизация: Возможность реализовать то
-чную функциональность, адап-
- []
-
-
-
-
-Overfull \hbox (31.29527pt too wide) has occurred while \output is active
-[] 
- []
-
-
-Overfull \vbox (813.74454pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (498.41129pt too wide) has occurred while \output is active
- [] 
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-[12]
-Overfull \hbox (5.83429pt too wide) in paragraph at lines 105--106
-[] \TU/TimesNewRoman(2)/m/n/13 -Оперативное информирование студентов посредство
-м публикации новостей и объ-
- []
-
-
-Overfull \hbox (8.29083pt too wide) in paragraph at lines 153--154
-[] \TU/TimesNewRoman(2)/m/n/13 -Реализовать обмен сообщениями без необходимости
- постоянного обновления стра-
+Overfull \hbox (6.8479pt too wide) in paragraph at lines 57--58
+[] \TU/TimesNewRoman(2)/m/n/13 • Полная кастомизация: Возможность реализовать т
+очную функциональность, адап-
  []
 
 
@@ -1537,12 +1534,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [13]
-Overfull \hbox (8.10051pt too wide) in paragraph at lines 163--164
-[] \TU/TimesNewRoman(2)/m/n/13 -Фреймворк Bootstrap: для быстрого создания адап
-тивного дизайна, корректно отоб-
- []
-
-) (completion.tex
 
 
 Overfull \hbox (31.29527pt too wide) has occurred while \output is active
@@ -1562,7 +1553,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
 
-[14]) (biblio.tex
+[14]) (completion.tex
 
 
 Overfull \hbox (31.29527pt too wide) has occurred while \output is active
@@ -1582,10 +1573,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
 
-[15
-
-
-])
+[15]) (biblio.tex
 
 
 Overfull \hbox (31.29527pt too wide) has occurred while \output is active
@@ -1608,6 +1596,29 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [16
 
 
+])
+
+
+Overfull \hbox (31.29527pt too wide) has occurred while \output is active
+[] 
+ []
+
+
+Overfull \vbox (813.74454pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (498.41129pt too wide) has occurred while \output is active
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+[17
+
+
 ] (practice_report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1617,14 +1628,18 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 165 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 23196 strings out of 408639
- 528430 string characters out of 5752229
- 993446 words of memory out of 5000000
- 45858 multiletter control sequences out of 15000+600000
+ 23216 strings out of 408639
+ 528805 string characters out of 5752229
+ 993471 words of memory out of 5000000
+ 45875 multiletter control sequences out of 15000+600000
  560090 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,17n,96p,1206b,323s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,96p,1206b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on practice_report.pdf (15 pages).
+Output written on practice_report.pdf (16 pages).
